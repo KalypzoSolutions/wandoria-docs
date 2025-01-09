@@ -1,15 +1,14 @@
 # wandoria-docs
 
-To install dependencies:
+First install the dependencies
 
 ```bash
 bun install
 ```
 
-To run:
+And then start development server
 
 ```bash
-bun run index.ts
+bun dev
 ```
 
-This project was created using `bun init` in bun v1.1.42. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
