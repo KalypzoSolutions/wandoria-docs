@@ -22,7 +22,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/KalypzoSolutions/' }
+      { icon: 'github', link: 'https://github.com/KalypzoSolutions/' },
+      { icon: 'discord', link: 'https://dc.wandoria.net' }
     ]
   }
 })
