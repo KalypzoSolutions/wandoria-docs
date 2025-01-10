@@ -6,6 +6,11 @@ export default defineConfig({
   description: "Hilfe und Dokumentation für Wandoria - Realms Minecraft",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+
+    search: {
+      provider: 'local'
+    },
+
     nav: [
       { text: 'Home', link: 'https://wandoria.net' }
     ],
