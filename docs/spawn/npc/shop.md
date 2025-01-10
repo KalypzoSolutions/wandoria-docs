@@ -1,4 +1,4 @@
 # Shop
 
-- Öfnnet den Shop
-- Erechbar mit ```/warp shop```
+- Öffnet den Shop
+- Erreichbar mit ```/warp shop```
