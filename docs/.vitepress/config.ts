@@ -49,6 +49,12 @@ export default defineConfig({
         items: [
           { text: 'Realm erstellen', link: '/realms/create' }
         ]
+      },
+      {
+        text: 'Commands',
+        items: [
+          { text: 'Warp-Command', link: '/commands/warp' }
+        ]
       }
     ],
 
