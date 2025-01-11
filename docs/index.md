@@ -24,5 +24,7 @@ Hier findest du alle wichtigen Informationen, die dir helfen, das Beste aus dein
 Hast du noch Fragen oder Feedback? Unser Team und die Community stehen dir jederzeit zur Verfügung:  
 ➡️ Besuche uns auf unserem [Discord-Server](https://dc.wandoria.net)
 
+➡️ Schicke uns eine Nachricht über unser [Kontaktformular](https://www.wandoria.net/kontakt)
+
 Wir wünschen dir viel Spaß und Erfolg auf **Wandoria.net**! 🌟  
 Dein **Wandoria-Team**

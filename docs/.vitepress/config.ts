@@ -39,13 +39,21 @@ export default defineConfig({
       {
         text: 'Items',
         items: [
-          { text: 'Stahlplatten', link: '/items/stealplate' }
+          { text: 'Stahlplatten', link: '/items/stealplate' },
+          { text: 'Laser MP-7', link: '/items/laser_mp' },
+          { text: 'Laser MG-30', link: '/items/laser_mg' },
         ]
       },
       {
         text: 'Realms',
         items: [
           { text: 'Realm erstellen', link: '/realms/create' }
+        ]
+      },
+      {
+        text: 'Commands',
+        items: [
+          { text: 'Warp-Command', link: '/commands/warp' }
         ]
       }
     ],
