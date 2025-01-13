@@ -52,8 +52,15 @@ export default defineConfig({
       },
       {
         text: 'Commands',
+        link: "/commands/commands",
         items: [
-          { text: 'Warp-Command', link: '/commands/warp' }
+          { text: 'Warp-Command', link: '/commands/warp' },
+          { text: 'Fly-Command', link: '/commands/fly' },
+          { text: 'Feed-Command', link: '/commands/feed' },
+          { text: 'Playtime-Command', link: '/commands/playtime' },
+          { text: 'Coins-Command', link: '/commands/coins' },
+          { text: 'Pay-Command', link: '/commands/pay' },
+          { text: 'Bits-Command', link: '/commands/bits' },
         ]
       }
     ],
